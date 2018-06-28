@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Инициализация Vue.js",
   "author": "LiquidHub.ru",
-  "type": "plugin",
+  "type": "bundle-js",
   "bundleName": "vue-sales",
   "homepage": "https://github.com/insales-components/vue-sales",
   "plugins": [{
