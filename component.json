@@ -1,0 +1,13 @@
+{
+  "name": "Vue-sales",
+  "version": "1.0.0",
+  "description": "Инициализация Vue.js",
+  "author": "LiquidHub.ru",
+  "type": "plugin",
+  "bundleName": "vue-sales",
+  "homepage": "https://github.com/insales-components/vue-sales",
+  "plugins": [{
+      "name": "vue",
+      "files": ["https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"]
+    }]
+}
