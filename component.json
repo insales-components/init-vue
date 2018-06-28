@@ -7,7 +7,7 @@
   "bundleName": "vue-sales",
   "homepage": "https://github.com/insales-components/vue-sales",
   "plugins": [{
-      "name": "vue",
+      "name": "vue.min.js",
       "files": ["https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"]
     }]
 }
